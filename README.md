@@ -1,5 +1,5 @@
 # trabajoUno
-Esta es la primera aplicación desarrollada en clase
+Esta es la primera aplicación desarrollada en clase de programacion web
 
 Codigo enviado al Docente:Alejandro Acevedo
 Nombre Del desarrollador del codigo:Julian Andres Ruiz Peña
